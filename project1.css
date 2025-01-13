@@ -1,0 +1,59 @@
+body{
+    background:linear-gradient(rgb(111, 255, 245),rgb(35, 54, 139)) ;
+}
+.num{
+    text-align: right;
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.head{
+    background-color: aliceblue;
+}
+.create{
+    color: rgb(85, 221, 221);
+    font-size: 35px;
+    
+}
+.p1{
+    color:rgb(255, 253, 253);
+    font-size: larger;
+}
+
+
+.inbox2{
+    background-color: rgb(195, 221, 221);
+    border-radius: 20px;
+}
+.inbox3{
+    background-color: rgb(195, 221, 221);
+    border-radius: 20px;
+}
+.inbox4{
+    background-color: rgb(195, 221, 221);
+    border-radius: 20px;
+}
+.inbox5{
+    border-radius:20px ;
+    background-color: aliceblue;
+ 
+    color: rgb(83, 171, 191);
+    width: 450px;
+    text-align: center;
+    font-size:larger;
+    
+
+}
+.inbox6{
+    border-radius:20px ;
+    background-color: aliceblue;
+    width: 600px;
+    height: 100px;
+    text-align:center ;
+}
+.link{
+    position: absolute;
+    bottom: 850px;
+    right: 620px;
+}
